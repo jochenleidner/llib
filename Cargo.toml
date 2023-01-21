@@ -1,0 +1,13 @@
+[package]
+name = "llib"
+categories = ["general utilities library", "text & string processing", "natural language processing", "information retrieval", "interfaces"]
+keywords = ["general", "utils", "strings", "text", "nlp & ir"]
+authors = ["Jochen L. Leidner <leidner@acm.org>"]
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+description = "A lightweight and free Rust software library"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
